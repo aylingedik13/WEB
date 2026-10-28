@@ -4,7 +4,7 @@ export function Hero() {
       <div className="wrap">
         <h1>AYLİN GEDİK</h1>
         <div className="hero-row">
-          <p className="role">Yazılım geliştirici</p>
+          <p className="role">Yapay Zeka Geliştirici</p>
           <nav aria-label="Sayfa">
             <a href="#hizmetler">Hizmetler</a>
             <a href="#katalog">Katalog</a>
